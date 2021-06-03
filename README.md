@@ -1,5 +1,4 @@
-
-(![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/84769445/120596799-d7157b80-c44c-11eb-9ef5-ebf0288e1acb.png))
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/84769445/120596799-d7157b80-c44c-11eb-9ef5-ebf0288e1acb.png)
 
 
 <h1 align="center">Hi There 👋,I'm Atheer Alotaibi</h1>
@@ -16,8 +15,8 @@
 ### 📫⚡ Social ⚡:
 
 <p align="left">
-<a href="https://twitter.com/otaibiatheer" height="40px" width="40px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="" alt="twitter" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/atheer alotaibi"  height="40px" width="40px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="" alt="linkedin" height="40" width="40" /></a>
+<a href="https://twitter.com/otaibiatheer" height="40px" width="40px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/atheer0998/atheer0998/blob/main/twitter.svg" alt="twitter" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/atheer alotaibi"  height="40px" width="40px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/atheer0998/atheer0998/blob/main/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
   
 
 <h3 align="left">Languages and Tools:</h3>
