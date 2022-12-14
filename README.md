@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/84769445/120596799-d7157b80-c44c-11eb-9ef5-ebf0288e1acb.png)
+<img width="745" alt="background" src="https://user-images.githubusercontent.com/84769445/207580515-059d39ee-7236-4071-b42e-406e3e5f4028.png">
 
 
 <h1 align="center">Hi 👋, I'm Atheer F. Alotaibi</h1>
