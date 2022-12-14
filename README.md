@@ -1,16 +1,15 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/84769445/120596799-d7157b80-c44c-11eb-9ef5-ebf0288e1acb.png)
 
 
-<h1 align="center">Hi There 👋,I'm Atheer Alotaibi</h1>
-<h3 align="center">A passionate CIS student who loves to develop websites. I would love to increase and enhance my ability to develop websites and be a full stack developer.</h3>
+<h1 align="center">Hi There 👋,I'm Atheer F. Alotaibi</h1>
+<h3 align="center">A software developer at 6 Degrees Technologies </h3>
 
 <p align="left"> <a href="https://twitter.com/otaibiatheer" target="blank"><img src="https://img.shields.io/twitter/follow/otaibiatheer?logo=twitter&style=for-the-badge" alt="otaibiatheer" /></a> </p>
 
-- 🌱 I’m currently learning **bootstrap, gitHub and Jekyll**
 
 - 👨‍💻 All of my projects are available at [https://github.com/atheer0998](https://github.com/atheer0998)
 
-- 📫 How to reach me **atheerf339@gmail.com**
+- 📫 How to reach me **atheer@6degrees.com.sa**
 
 ### 📫⚡ Social ⚡:
 
