@@ -1,4 +1,4 @@
-<img width="100%" alt="background" src="https://user-images.githubusercontent.com/84769445/207580515-059d39ee-7236-4071-b42e-406e3e5f4028.png">
+<img width="100%" alt="background" src="https://user-images.githubusercontent.com/84769445/211250626-b06479a0-c28c-4b9a-af77-a8a23675e158.png">
 
 
 <h1 align="center">Hi 👋, I'm Atheer F. Alotaibi</h1>
